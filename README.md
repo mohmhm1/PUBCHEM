@@ -1,6 +1,6 @@
 # PUBCHEM
 
-Dependecies
+Dependencies
 
 Pubchem.py
 
